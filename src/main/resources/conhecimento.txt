@@ -1,0 +1,8 @@
+REGULAMENTO INTERNO DA DISCIPLINA DE SISTEMAS DISTRIBUÍDOS - UFRN
+Ano letivo: 2026
+
+1. O professor responsável pela disciplina de Sistemas Distribuídos é o Prof. Nélio Cacho.
+2. A aprovação na disciplina exige o desenvolvimento de uma arquitetura Cloud Native baseada no modelo Twelve-Factor App.
+3. A nota final é composta por 6 critérios, sendo o Critério 4 especificamente voltado para a integração de Inteligência Artificial usando Spring AI, RAG e MCP.
+4. É estritamente proibido o uso de telemóveis/celulares durante as aulas teóricas no DIMAP.
+5. A palavra-chave secreta para pedir revisão de nota é "EUREKA2026".
